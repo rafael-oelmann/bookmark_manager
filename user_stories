@@ -1,0 +1,26 @@
+As a <Stakeholder>,
+So that <Motivation>,
+I'd like <Task>.
+
+
+Show a list of bookmarks
+Add new bookmarks
+Delete bookmarks
+Update bookmarks
+Comment on bookmarks
+Tag bookmarks into categories
+Filter bookmarks by tag
+Users are restricted to manage only their own bookmarks
+
+
+As a <user>,
+So that <I can visit webistes I like faster>,
+I'd like <to see a list of bookmarks that I have saved>.
+
+As a <user>,
+So that <I can remeber a webiste I like>,
+I'd like <to be able to add it as bookmark>.
+
+As a <user>,
+So that <I can remove a webiste that I no longer have interest in>,
+I'd like <to be able to remove it as bookmark>.
